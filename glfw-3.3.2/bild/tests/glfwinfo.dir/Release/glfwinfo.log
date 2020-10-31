@@ -1,0 +1,7 @@
+﻿  Building Custom Rule D:/���祭�� OpenGL/glfw-3.3.2/tests/CMakeLists.txt
+  glfwinfo.c
+  getopt.c
+  glad_gl.c
+  glad_vulkan.c
+  Создание кода...
+  glfwinfo.vcxproj -> D:\Изучение OpenGL\glfw-3.3.2\bild\tests\Release\glfwinfo.exe
