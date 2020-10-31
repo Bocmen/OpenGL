@@ -1,4 +1,0 @@
-﻿  main.cpp
-D:\Изучение OpenGL\Project2\Project2\Shader.h(71,15): warning C4101: charsbuff: неиспользованная локальная переменная
-D:\Изучение OpenGL\Project2\Project2\Shader.h(78): warning C4172: возвращение адреса локальной или временной переменной : res
-  Project2.vcxproj -> D:\Изучение OpenGL\Project2\x64\Debug\Project2.exe
